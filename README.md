@@ -1,1 +1,1 @@
-# Learning Log - main version
+# Learning log
