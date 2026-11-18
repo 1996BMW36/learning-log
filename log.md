@@ -3,4 +3,4 @@
 2026-11-10 | 4h | Worked on LGB, practiced git
 2026-11-11 | 4h | Finished LGB Main tab. Pro Git ch 1-2.
 2026-11-15 | 3h | Finished chapter 3 Pro Git and practiced git commands along with remembering some terminal commands
-
+2026-11-17 | 4h | Finished foundational section on freecodecamp for c# and then practiced on my own
