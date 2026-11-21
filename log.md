@@ -6,3 +6,5 @@
 2026-11-17 | 4h | Finished foundational section on freecodecamp for c# and then practiced on my own
 2026-11-18 | 6h | Worked on the Create and Run Simple C# Console Applications as well as practiced drills
 2026-11-19 | 6h | Worked on and finished the create and run part of freecodecamp and then made a practice console app as well as hammering in basic c# and terminal processes.
+2026-11-20 | 3h | Practiced Console App work more
+2026-11-21 | 4h | Worked on the next part of freecodecamp
