@@ -8,3 +8,4 @@
 2026-11-19 | 6h | Worked on and finished the create and run part of freecodecamp and then made a practice console app as well as hammering in basic c# and terminal processes.
 2026-11-20 | 3h | Practiced Console App work more
 2026-11-21 | 4h | Worked on the next part of freecodecamp
+2026-11-22 | 3h | Worked on Add Logic to C# Console Applications
