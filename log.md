@@ -11,3 +11,5 @@
 2026-11-22 | 3h | Worked on Add Logic to C# Console Applications
 2026-11-23 | 2h | Couldnt focus on work for various reasons
 2026-11-24 | 6h | Found my focus and completed freecodecamp Add logic to C# console applications
+2026-11-25 | 4h | Continued working on free code camp and practiced on my own console applications
+2026-11-27 | 5h | Hard day at work and hard day learning
